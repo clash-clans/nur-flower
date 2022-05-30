@@ -1,0 +1,46 @@
+.Flower {
+  box-sizing: border-box;
+  background-repeat: no-repeat;
+}
+
+.roses {
+  background-image: url(../../../../assets/rose.png);
+  background-size: cover;
+  width: 40px;
+  height: 38px;
+}
+
+.jasmine {
+  background-image: url(../../../../assets/jasmine.png);
+  background-size: cover;
+  width: 40px;
+  height: 38px;
+}
+
+.daisies {
+  background-image: url(../../../../assets/imgonline-com-ua-Transparent-backgr-svQ5TVdHMD0.png);
+  background-size: cover;
+  width: 40px;
+  height: 38px;
+}
+
+.lilies {
+  background-image: url(../../../../assets/lily.png);
+  background-size: cover;
+  width: 45px;
+  height: 42px;
+}
+
+.orchids {
+  background-image: url(../../../../assets/imgonline-com-ua-Transparent-backgr-B3aMy6t0iYKlmc5y.png);
+  background-size: cover;
+  width: 40px;
+  height: 38px;
+}
+
+.liliesOfTheValley {
+  background-image: url(../../../../assets/imgonline-com-ua-Transparent-backgr-l9j3NOXdz4.png);
+  background-size: cover;
+  width: 40px;
+  height: 38px;
+}
